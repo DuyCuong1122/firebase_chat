@@ -1,0 +1,5 @@
+1. fill SHA-1 for firebase
+2. khi dùng hàm onReady(onInit, dispose and so on) nhớ để ý super: ví dụ onReady nhưng super.onRead
+3. Chú ý item.photourl và "item.photourl"
+4. khi query db với nhiều where, chú ý indexes của db và query scope
+5. để ý isEqualTo với isNotEqualTo

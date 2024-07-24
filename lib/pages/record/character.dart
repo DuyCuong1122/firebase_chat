@@ -1,0 +1,26 @@
+final List<String> character = <String>[
+  'A',
+  'B',
+  'C',
+  'D',
+  'Đ',
+  'E',
+  'G',
+  'H',
+  'I',
+  'K',
+  'L',
+  'M',
+  'N',
+  'O',
+  'P',
+  'Q',
+  'R',
+  'S',
+  'T',
+  'U',
+  'V',
+  'X',
+  'Y'
+];
+List<String> listTime = <String>['5', '7', '10', '15'];
